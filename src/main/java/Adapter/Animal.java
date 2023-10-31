@@ -9,5 +9,5 @@ package Adapter;
  * @author danie
  */
 public interface Animal {
-    void makeSound();
+    public void makeSound();
 }
